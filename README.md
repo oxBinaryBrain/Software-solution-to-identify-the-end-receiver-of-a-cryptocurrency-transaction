@@ -27,7 +27,7 @@ _Deployed using Vercel with TypeScript + JavaScript frontend._
 - **Frontend**: TypeScript, JavaScript (Vercel-hosted site)
 - **API**: Etherscan API
 
-## 📦 Installation
+## 📦 Installation ( For running only the python based program in terminal)
 
 ```bash
 git clone https://github.com/oxBinaryBrain/Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction.git
