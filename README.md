@@ -51,5 +51,8 @@ python main.py -t 0xYourWalletAddress
 - Highlighting unusual transaction values  
 - Detecting potential money laundering loops  
 - Predictive behavior scoring for wallet types  
-- Helps law enforcement trace illicit financial flows  
+- Helps law enforcement trace illicit financial flows
 
+  
+📌 Conclusion
+This tool enhances transparency and accountability in crypto transactions, particularly in illicit domains. It can be integrated into larger blockchain analytics systems or used as a standalone inspection tool for investigative purposes.
