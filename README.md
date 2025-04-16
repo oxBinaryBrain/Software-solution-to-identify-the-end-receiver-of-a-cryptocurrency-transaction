@@ -31,10 +31,11 @@ pip install -r requirements.txt
 ```
 
 ## Working
-Detect wallet type
+
 ```bash
+#Detect wallet type
 python main.py -w 0xYourWalletAddress
 
-rack and analyze transactions
+#Track and analyze transactions
 python main.py -t 0xYourWalletAddress
 ```
