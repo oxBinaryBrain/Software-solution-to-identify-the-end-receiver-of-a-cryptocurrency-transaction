@@ -1,0 +1,11 @@
+argparse
+requests
+pandas
+tabloo
+joblib
+
+
+
+
+
+## phase2.py and blocktracker.py files are the two versions of the same project with different set of code and approaches.
