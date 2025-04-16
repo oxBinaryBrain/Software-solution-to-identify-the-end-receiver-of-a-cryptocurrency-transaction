@@ -29,3 +29,10 @@ cd Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transactio
 ```bash
 pip install -r requirements.txt
 ```
+
+## Working
+# Detect wallet type
+python main.py -w 0xYourWalletAddress
+
+# Track and analyze transactions
+python main.py -t 0xYourWalletAddress
