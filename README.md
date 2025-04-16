@@ -2,33 +2,38 @@
 Final Year Project git repo
 
 
-# 🔎 Crypto Transaction Analyzer
+# 🕵️‍♂️ Tracing the End Receiver of Cryptocurrency Transactions
 
-A Python-based tool to trace Ethereum transactions and flag suspicious ones using machine learning and anomaly detection. Designed to support investigations of illicit cryptocurrency activity.
+A project focused on identifying the real recipient in cryptocurrency transactions, with a special focus on illegal drug trade. It combines blockchain analysis and anomaly detection to flag suspicious transactions.
+
+## 🌐 Live Demo
+
+👉 [View Website](https://your-vercel-project-url.vercel.app)  
+_Deployed using Vercel with TypeScript + JavaScript frontend._
 
 ## 🚀 Features
 
-- **Wallet Address Type Detection** (ML + rule-based fallback)
-- **Transaction Tracking** via Etherscan API (up to 50 transactions)
-- **Anomaly Detection** using Isolation Forest
-- **Clear Display** of normal vs. suspicious transactions
+- 🔎 Detects suspicious transactions using anomaly detection (Isolation Forest)
+- 📊 Extracts transaction data via Etherscan API
+- 🧠 Predicts wallet type using ML or rule-based logic
+- 🧹 Filters and displays only relevant or suspicious activity
+- 🧪 CLI interface for quick testing and insights
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-- Python
-- scikit-learn (ML + anomaly detection)
-- Etherscan API
-- NumPy, Requests, Joblib
+- **Backend**: Python (Scikit-learn, Joblib)
+- **ML Model**: Random Forest (for address classification)
+- **Anomaly Detection**: Isolation Forest
+- **Frontend**: TypeScript, JavaScript (Vercel-hosted site)
+- **API**: Etherscan API
 
-## ⚙️ Setup
+## 📦 Installation
 
 ```bash
 git clone https://github.com/oxBinaryBrain/Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction.git
 cd Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction
-```
-```bash
 pip install -r requirements.txt
-```
+
 
 ## Working
 
