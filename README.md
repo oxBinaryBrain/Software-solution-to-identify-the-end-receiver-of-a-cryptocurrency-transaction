@@ -53,6 +53,5 @@ python main.py -t 0xYourWalletAddress
 - Predictive behavior scoring for wallet types  
 - Helps law enforcement trace illicit financial flows
 
-  
-📌 Conclusion
+## 📌 Conclusion
 This tool enhances transparency and accountability in crypto transactions, particularly in illicit domains. It can be integrated into larger blockchain analytics systems or used as a standalone inspection tool for investigative purposes.
