@@ -46,4 +46,10 @@ python main.py -t 0xYourWalletAddress
 
 #Suspicious transactions are shown separately at the end.
 ```
+## ✅ Expected Outcomes
+
+- Highlighting unusual transaction values  
+- Detecting potential money laundering loops  
+- Predictive behavior scoring for wallet types  
+- Helps law enforcement trace illicit financial flows  
 
