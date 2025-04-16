@@ -25,5 +25,7 @@ A Python-based tool to trace Ethereum transactions and flag suspicious ones usin
 ```bash
 git clone https://github.com/oxBinaryBrain/Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction.git
 cd Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction
+```
+```bash
 pip install -r requirements.txt
 ```
