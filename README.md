@@ -30,7 +30,7 @@ _Deployed using Vercel with TypeScript + JavaScript frontend._
 ## 📦 Installation ( For running only the python based program in terminal)
 
 ```bash
-git clone https://github.com/oxBinaryBrain/Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction.git
+git clone Merge branch 'main' of https://github.com/oxBinaryBrain/TRACE
 cd Software-solution-to-identify-the-end-receiver-of-a-cryptocurrency-transaction
 pip install -r requirements.txt
 
